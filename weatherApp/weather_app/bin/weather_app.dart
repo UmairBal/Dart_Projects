@@ -19,7 +19,7 @@ class WeatherService {
 }
 
 void main() async {
-  final apiKey = 'e15ad2de48686775700d049be41605f1';
+  final apiKey = 'API_Key';
   final baseUrl = 'https://api.openweathermap.org/data/2.5/weather';
 
   final weatherService = WeatherService(apiKey, baseUrl);
