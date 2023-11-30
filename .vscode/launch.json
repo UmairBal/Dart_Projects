@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "Dart (weatherApp.dart)",
+            "type": "dart",
+            "request": "launch",
+            "program": "weatherApp.dart"
+        }
+    ]
+}
