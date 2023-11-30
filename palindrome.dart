@@ -23,6 +23,7 @@ String? reverseString(String? sentence) {
     return reversedSentence;
   } else
     stdout.writeln("Sentence is null");
+  return null;
 }
 
 bool? isPalindrome(String? sentence) {
